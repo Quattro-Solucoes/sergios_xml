@@ -11,8 +11,8 @@
     <produtos>
         <produto>
             <pcod>8401</pcod>
-            <pcategoria>8401</pcategoria>
-            <psubcategoria>840101</psubcategoria>
+            <pcategoria>XXX</pcategoria> <!-- *ATUALIZAR* Código de 3 dígitos da categoria do Sistema Chaplin -->
+            <psubcategoria>XXX</psubcategoria> <!-- *NOVO* Código de 3 dígitos da subcategoria do Sistema Chaplin -->
             <punid>PR</punid>
             <ncm>64039990</ncm>
             <cest></cest>
@@ -34,7 +34,7 @@
                     <cores>
                         <cor>
                             <fcrcod>RAU</fcrcod>
-                            <fsolcod>S01</fsolcod>
+                            <fsolcod>XXX</fsolcod> <!-- *NOVO* Código de 3 dígitos do solado do Sistema Chaplin * Opcional -->
                             <eans>
                                 <ean tid="1">7908820876726</ean>
                                 <ean tid="2">7908820876733</ean>
@@ -75,7 +75,7 @@
                     <cores>
                         <cor>
                             <fcrcod>S2L</fcrcod>
-                            <fsolcod>S02</fsolcod>
+                            <fsolcod>XXX</fsolcod> <!-- *NOVO* Código de 3 dígitos do solado do Sistema Chaplin * Opcional -->
                             <eans>
                                 <ean tid="1">7908820876801</ean>
                                 <ean tid="2">7908820876818</ean>
