@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<catalogo>
+    <ident>
+        <versao>1.1</versao>
+        <data>2024-12-12</data>
+    </ident>
+    <gerador>
+        <razao>PG4 IND DE CALC E ARTEFATOS DE COURO LTDA</razao>
+        <cnpj>08934180000190</cnpj>
+    </gerador>
+    <produtos>
+        <produto>
+            <pcod>8401</pcod>
+            <pcategoria>8401</pcategoria>
+            <punid>PR</punid>
+            <ncm>64039990</ncm>
+            <cest></cest>
+            <cst_origem>0</cst_origem>
+            <cst_tribut>00</cst_tribut>
+            <grade>
+                <tm tid="1">37</tm>
+                <tm tid="2">38</tm>
+                <tm tid="3">39</tm>
+                <tm tid="4">40</tm>
+                <tm tid="5">41</tm>
+                <tm tid="6">42</tm>
+                <tm tid="7">43</tm>
+                <tm tid="8">44</tm>
+            </grade>
+            <materiais>
+                <material>
+                    <fmatcod>OM4</fmatcod>
+                    <cores>
+                        <cor>
+                            <fcrcod>RAU</fcrcod>
+                            <eans>
+                                <ean tid="1">7908820876726</ean>
+                                <ean tid="2">7908820876733</ean>
+                                <ean tid="3">7908820876740</ean>
+                                <ean tid="4">7908820876757</ean>
+                                <ean tid="5">7908820876764</ean>
+                                <ean tid="6">7908820876771</ean>
+                                <ean tid="7">7908820876788</ean>
+                                <ean tid="8">7908820876795</ean>
+                            </eans>
+                        </cor>
+                    </cores>
+                </material>
+            </materiais>
+        </produto>
+        <produto>
+            <pcod>8402</pcod>
+            <pcategoria>8402</pcategoria>
+            <punid>PR</punid>
+            <ncm>64039990</ncm>
+            <cest></cest>
+            <cst_origem>0</cst_origem>
+            <cst_tribut>00</cst_tribut>
+            <grade>
+                <tm tid="1">37</tm>
+                <tm tid="2">38</tm>
+                <tm tid="3">39</tm>
+                <tm tid="4">40</tm>
+                <tm tid="5">41</tm>
+                <tm tid="6">42</tm>
+                <tm tid="7">43</tm>
+                <tm tid="8">44</tm>
+            </grade>
+            <materiais>
+                <material>
+                    <fmatcod>H38</fmatcod>
+                    <cores>
+                        <cor>
+                            <fcrcod>S2L</fcrcod>
+                            <eans>
+                                <ean tid="1">7908820876801</ean>
+                                <ean tid="2">7908820876818</ean>
+                                <ean tid="3">7908820876825</ean>
+                                <ean tid="4">7908820876832</ean>
+                                <ean tid="5">7908820876849</ean>
+                                <ean tid="6">7908820876856</ean>
+                                <ean tid="7">7908820876863</ean>
+                                <ean tid="8">7908820876870</ean>
+                            </eans>
+                        </cor>
+                    </cores>
+                </material>
+            </materiais>
+        </produto>
+    </produtos>
+</catalogo>
