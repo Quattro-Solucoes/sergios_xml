@@ -12,6 +12,7 @@
         <produto>
             <pcod>8401</pcod>
             <pcategoria>8401</pcategoria>
+            <psubcategoria>840101</psubcategoria>
             <punid>PR</punid>
             <ncm>64039990</ncm>
             <cest></cest>
@@ -33,6 +34,7 @@
                     <cores>
                         <cor>
                             <fcrcod>RAU</fcrcod>
+                            <fsolcod>S01</fsolcod>
                             <eans>
                                 <ean tid="1">7908820876726</ean>
                                 <ean tid="2">7908820876733</ean>
@@ -51,6 +53,7 @@
         <produto>
             <pcod>8402</pcod>
             <pcategoria>8402</pcategoria>
+            <psubcategoria>840202</psubcategoria>
             <punid>PR</punid>
             <ncm>64039990</ncm>
             <cest></cest>
@@ -72,6 +75,7 @@
                     <cores>
                         <cor>
                             <fcrcod>S2L</fcrcod>
+                            <fsolcod>S02</fsolcod>
                             <eans>
                                 <ean tid="1">7908820876801</ean>
                                 <ean tid="2">7908820876818</ean>
